@@ -24,8 +24,8 @@ To run the application, you need:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/weather-monitoring.git
-cd weather-monitoring
+git clone https://github.com/PrakharGupta2001/Real-Time_Data_Processing_for_Weather_Monitoring.git
+cd Real-Time_Data_Processing_for_Weather_Monitoring
 ```
 
 ### 2. Install dependencies:
